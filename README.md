@@ -15,12 +15,13 @@
 ### 1. Hero Section Layout Overflow
 | Original (Layout Outflow & White Gap) | Redesign (1440px Container & Full Bleed) |
 | :---: | :---: |
-| <img src="./screenshots/starting_section-before.png" width="400"/> | <img src="./screenshots/starting_section-after.png" width="400"/> |
+| <img width="1881" height="1047" alt="starting_section-before" src="https://github.com/user-attachments/assets/f999469f-0e8e-40c4-95ab-d052d7ba13cd">
+| <img width="805" height="578" alt="starting_section-after" src="https://github.com/user-attachments/assets/66d004dc-85e2-480a-840e-57fdb03934be"> |
 
 ### 2. FAQ Component Mechanics & Hitbox
 | Original (Unenclosed Box & Truncated Border) | Redesign (Closed Card & Full Surface Clickability) |
 | :---: | :---: |
-| <img src="./screenshots/FAQ-before.png" width="400"/> | <img src="./screenshots/FAQ-after.png" width="400"/> |
+| <img width="1901" height="1077" alt="FAQ-before" src="https://github.com/user-attachments/assets/c40ebe41-f249-43db-86e6-07accdab9e6c"> | <img width="802" height="572" alt="FAQ-after" src="https://github.com/user-attachments/assets/c11d1247-9af7-43da-a260-d17858ff4321" />" |
 
 ---
 
